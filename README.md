@@ -2,7 +2,7 @@
 
 A responsive and modern gym website built with HTML, CSS, and JavaScript. Perfect for fitness centers, personal trainers, or anyone looking to showcase their gym services online.
 
-![Gym Website Demo](https://via.placeholder.com/1200x600.png?text=Gym+Website+Demo)
+![Gym Website Demo](https://asgardstrength.netlify.app/)
 
 ## 🚀 Features
 
